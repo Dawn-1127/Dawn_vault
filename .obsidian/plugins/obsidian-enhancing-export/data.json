@@ -20,7 +20,8 @@
       "name": "PDF"
     },
     {
-      "name": "Word (.docx)"
+      "name": "Word (.docx)",
+      "openExportedFileLocation": true
     },
     {
       "name": "OpenOffice"
@@ -53,14 +54,15 @@
       "name": "PowerPoint (.pptx)"
     }
   ],
+  "pandocPath": {
+    "win32": "D:\\Tools\\pandoc\\pandoc.exe"
+  },
   "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
-  "pandocPath": {
-    "win32": "D:\\Tools\\pandoc\\pandoc.exe"
-  },
   "customDefaultExportDirectory": {
     "win32": "C:\\Users\\Lin\\Documents"
-  }
+  },
+  "lastEditName": "Word (.docx)"
 }
