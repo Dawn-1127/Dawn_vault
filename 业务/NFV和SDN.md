@@ -10,7 +10,7 @@
 [Linux 用户讲解（创建用户、修改用户属性、用户相关命令）](https://blog.csdn.net/m0_49864110/article/details/129034653)
 [Linux 文件权限讲解（一般权限、特殊权限、隐藏权限、访问控制列表、Umask）](https://blog.csdn.net/m0_49864110/article/details/129034749)
 
-[# Linux网络配置与网络信息查看讲解](https://blog.csdn.net/m0_49864110/article/details/129142779)
+[Linux网络配置与网络信息查看讲解](https://blog.csdn.net/m0_49864110/article/details/129142779)
 
-[# 《跟唐老师学云网络》](https://bbs.huaweicloud.com/blogs/109721)
+[《跟唐老师学云网络》](https://bbs.huaweicloud.com/blogs/109721)
 生动形象，同属移动。了解网络知识
