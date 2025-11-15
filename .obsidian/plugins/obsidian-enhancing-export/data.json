@@ -52,11 +52,11 @@
       "name": "PowerPoint (.pptx)"
     }
   ],
+  "pandocPath": {
+    "win32": "D:\\Tools\\pandoc-3.8.2.1-windows-x86_64\\pandoc-3.8.2.1\\pandoc.exe"
+  },
   "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
   "env": {},
-  "showExportProgressBar": true,
-  "pandocPath": {
-    "win32": "C:\\Users\\Lin\\Downloads\\Compressed\\pandoc-3.8.2.1\\pandoc.exe"
-  }
+  "showExportProgressBar": true
 }
