@@ -1,8 +1,7 @@
 {
   "items": [
     {
-      "name": "Markdown",
-      "openExportedFileLocation": true
+      "name": "Markdown"
     },
     {
       "name": "Markdown (Hugo)"
@@ -20,8 +19,7 @@
       "name": "PDF"
     },
     {
-      "name": "Word (.docx)",
-      "openExportedFileLocation": true
+      "name": "Word (.docx)"
     },
     {
       "name": "OpenOffice"
@@ -54,15 +52,11 @@
       "name": "PowerPoint (.pptx)"
     }
   ],
-  "pandocPath": {
-    "win32": "D:\\Tools\\pandoc\\pandoc.exe"
-  },
-  "defaultExportDirectoryMode": "Custom",
+  "defaultExportDirectoryMode": "Auto",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
-  "customDefaultExportDirectory": {
-    "win32": "C:\\Users\\Lin\\Documents"
-  },
-  "lastEditName": "Word (.docx)"
+  "pandocPath": {
+    "win32": "C:\\Users\\Lin\\Downloads\\Compressed\\pandoc-3.8.2.1\\pandoc.exe"
+  }
 }
