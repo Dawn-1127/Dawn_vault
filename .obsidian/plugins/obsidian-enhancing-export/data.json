@@ -55,12 +55,16 @@
   "pandocPath": {
     "win32": "D:\\Tools\\pandoc-3.8.2.1-windows-x86_64\\pandoc-3.8.2.1\\pandoc.exe"
   },
-  "defaultExportDirectoryMode": "Auto",
-  "openExportedFile": true,
+  "defaultExportDirectoryMode": "Custom",
+  "openExportedFile": false,
   "env": {},
   "showExportProgressBar": true,
   "lastExportDirectory": {
     "win32": "C:\\Users\\Lin\\Documents"
   },
-  "lastExportType": "Word (.docx)"
+  "lastExportType": "Word (.docx)",
+  "customDefaultExportDirectory": {
+    "win32": "C:\\Users\\Lin\\Downloads"
+  },
+  "openExportedFileLocation": true
 }
