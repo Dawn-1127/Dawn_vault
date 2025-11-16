@@ -10,5 +10,5 @@
 
 [Linux网络配置与网络信息查看讲解](https://blog.csdn.net/m0_49864110/article/details/129142779)
 
-[《跟唐老师学云网络》](https://bbs.huaweicloud.com/blogs/109721)
-生动形象，同属移动。了解网络知识
+
+[L2 Agent Networking](https://docs.openstack.org/neutron/newton/devref/l2_agents.html)
