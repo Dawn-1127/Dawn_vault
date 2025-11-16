@@ -1,4 +1,7 @@
 {
-  "baseFontSize": 22,
-  "showRibbon": false
+  "baseFontSize": 20,
+  "showRibbon": false,
+  "accentColor": "#f58a5c",
+  "baseFontSizeAction": true,
+  "showViewHeader": false
 }
