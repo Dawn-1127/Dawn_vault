@@ -12,3 +12,4 @@
 
 
 [L2 Agent Networking](https://docs.openstack.org/neutron/newton/devref/l2_agents.html)
+![1000](./assets/NFV和SDN/file-20251117015250428.png)
