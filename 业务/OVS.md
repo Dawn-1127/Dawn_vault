@@ -6,7 +6,10 @@
 [Introduction to OVN - OVS Conference 2015](http://youtube.com/watch?v=v1xkJjnuzhk)
 [[The Long Road to] Deployable OvS Hardware Offloading for 5G Telco Clouds](https://www.youtube.com/watch?v=HqyltMJjQF8)
 开具两张图，流量传输，很直观，推荐下载。
-有关“卸载”的目的
+有关“卸载”的目的，
+会议使用的PPT可以在ovs官网->Talks & Presentations -> Conferences 中找到
+本视频对应于[OVS+OVNcon 2019](https://www.openvswitch.org/support/ovscon2019/#s6.3F)
+
 ## 他人
 [网络虚拟化介绍（OVS、DVS）](https://blog.csdn.net/m0_49864110/article/details/134291580)
 
