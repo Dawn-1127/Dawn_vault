@@ -1,5 +1,3 @@
-
-
 # 一、下载
 ## 本体
 [MobaXterm 25.0中文汉化版](https://www.52pojie.cn/forum.php?mod=viewthread&tid=2001105)
