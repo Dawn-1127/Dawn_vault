@@ -1,0 +1,13 @@
+{
+  "minimal-style@@h1-color@@dark": "#66C18C",
+  "minimal-style@@h1-color@@light": "#66C18C",
+  "minimal-style@@h1-size": "1.25em",
+  "minimal-style@@h2-color@@light": "#66C18C",
+  "minimal-style@@h2-color@@dark": "#66C18C",
+  "minimal-style@@h2-size": "1.125em",
+  "minimal-style@@h2-l": false,
+  "minimal-style@@line-number-color-active@@light": "#20A162",
+  "minimal-style@@line-number-color-active@@dark": "#20A162",
+  "minimal-style@@window-title-off": false,
+  "minimal-style@@bg3@@dark": "#314A43"
+}

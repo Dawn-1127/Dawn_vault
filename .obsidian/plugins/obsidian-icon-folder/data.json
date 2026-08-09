@@ -4,9 +4,18 @@
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
-    "iconColor": null,
-    "recentlyUsedIcons": [],
-    "recentlyUsedIconsSize": 5,
+    "iconColor": "#fbc82f",
+    "recentlyUsedIcons": [
+      "LiNetwork",
+      "LiTableOfContents",
+      "LiBookOpen",
+      "SiPython",
+      "SiLinux",
+      "SiDocker",
+      "LiCode",
+      "LiFolder"
+    ],
+    "recentlyUsedIconsSize": 25,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -27,5 +36,26 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
+  },
+  "业务": {
+    "iconName": "LiNetwork",
+    "iconColor": "#66c18c"
+  },
+  "Guide": {
+    "iconName": "LiTableOfContents",
+    "iconColor": "#66c18c"
+  },
+  "Guide/电脑设置": "LiFolder",
+  "Guide/工具类软件": "LiFolder",
+  "编程": {
+    "iconName": "LiCode",
+    "iconColor": "#66c18c"
+  },
+  "编程/Docker": "SiDocker",
+  "编程/Linux": "SiLinux",
+  "编程/Python": "SiPython",
+  "Books": {
+    "iconName": "LiBookOpen",
+    "iconColor": "#66c18c"
   }
 }

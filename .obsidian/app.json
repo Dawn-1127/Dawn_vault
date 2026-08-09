@@ -5,9 +5,14 @@
   "promptDelete": false,
   "readableLineLength": false,
   "propertiesInDocument": "visible",
-  "foldHeading": false,
-  "foldIndent": false,
-  "showLineNumber": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
   "showIndentGuide": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "settingsPopoutWindow": false,
+  "alwaysUpdateLinks": false,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./附件"
 }
