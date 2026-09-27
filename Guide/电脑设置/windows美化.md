@@ -27,6 +27,7 @@
 # 四、桌面摆件
 ## StartAllBack
 使用破解软件名为StartAllBack_3.x_Patch
+或者是 https://github.com/Aetherinox/utility-startallback
 ## rainmeter
 前往[rainmater官网](https://www.rainmeter.net/)自行下载并安装
 使用的雨滴皮肤 [simple-clean](https://visualskins.com/skin/simple-clean)
