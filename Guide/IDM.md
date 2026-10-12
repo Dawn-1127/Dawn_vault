@@ -10,6 +10,7 @@ IDM_6.4x_Crack
 步骤2：输入`cmd`，并键入`回车键`。此时弹出**cmd**界面
 步骤3：执行`ping www.internetdownloadmanager.com` 
 步骤4：回显中的ip地址，就是IDM网站的最新IP地址
+![](./assets/IDM/file-20261012194121872.png)
 ## 2.2 建立防火墙出站规则
 步骤1：同时按下`Win键`和`S键`，输入`控制面板`，来打开`控制面板`
 步骤2：在**控制面板**界面，点击`Windows Defender 防火墙`
