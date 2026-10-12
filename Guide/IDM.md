@@ -19,7 +19,7 @@ IDM_6.4x_Crack
 ![](./assets/IDM/file-20261012195021890.png)
 步骤3：在**Windows Defender 防火墙**界面，点击`高级设置`。此时弹出`高级安全 Windows Defender 防火墙`
 步骤4：点击`出站规则`，在右侧找到并点击`新建规则`。按照下一章节设置规则
-![](./assets/IDM/file-20261012194923950.png)e
+![](./assets/IDM/file-20261012194923950.png)
 ## 2.3 自定义出站规则
 规则类型：自定义
 程序：找到IDMan.exe（即IDM安装地址）
@@ -35,3 +35,4 @@ IDM_6.4x_Crack
 ![](./assets/IDM/file-20261012195525245.png)
 ![](./assets/IDM/file-20261012195554658.png)
 ![](./assets/IDM/file-20261012195625562.png)
+![](./assets/IDM/file-20261012195733928.png)
